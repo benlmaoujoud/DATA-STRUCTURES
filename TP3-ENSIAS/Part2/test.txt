@@ -1,0 +1,6 @@
+HELLO
+WORLD
+HAPPY
+NEW
+YEAR
+(:

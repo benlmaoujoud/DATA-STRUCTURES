@@ -20,7 +20,7 @@ typedef struct tree {
 
 // add élément in the tree
 
-tree *ajouter(int , tree )  ; 
+tree *add(int , tree )  ; 
 
 
 
